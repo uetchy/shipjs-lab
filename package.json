@@ -1,6 +1,6 @@
 {
   "name": "shipjs-lab",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "index.js",
   "author": "Yasuaki Uechi <y@uechi.io> (https://uechi.io/)",
   "license": "MIT"
